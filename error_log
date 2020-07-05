@@ -1,0 +1,9 @@
+[01-Feb-2020 14:08:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/erjd9aoxx664/public_html/Inventory/dist/includes/dbcon.php on line 2
+[01-Feb-2020 22:08:51 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/erjd9aoxx664/public_html/Inventory/index.php on line 49
+[01-Feb-2020 22:08:51 Asia/Manila] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/erjd9aoxx664/public_html/Inventory/index.php on line 49
+[21-May-2020 07:13:20 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'florist_site'@'localhost' to database 'stockms' in /home/erjd9aoxx664/public_html/Inventory/dist/includes/dbcon.php on line 2
+[21-May-2020 15:13:20 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/erjd9aoxx664/public_html/Inventory/index.php on line 49
+[21-May-2020 15:13:20 Asia/Manila] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/erjd9aoxx664/public_html/Inventory/index.php on line 49
+[05-Jul-2020 20:57:50 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'florist_site'@'localhost' to database 'stockms' in /home/erjd9aoxx664/public_html/Inventory/dist/includes/dbcon.php on line 2
+[06-Jul-2020 04:57:50 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/erjd9aoxx664/public_html/Inventory/index.php on line 49
+[06-Jul-2020 04:57:50 Asia/Manila] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/erjd9aoxx664/public_html/Inventory/index.php on line 49
